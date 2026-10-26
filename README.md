@@ -1,4 +1,4 @@
-# Senior PHP Engineer | Tech Lead
+# Senior PHP Engineer
 
 Senior PHP Engineer with 13 years of commercial experience building, modernizing, and maintaining backend systems, including 2 years of experience in technical leadership.
 
